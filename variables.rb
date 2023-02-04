@@ -11,3 +11,10 @@ year = 2023
 meaning_of_life = 42
 bone_creature_members = 4
 great_lakes = 5
+
+## Floats
+
+most_famous = 3.14159265359
+fiddy_cent = 0.50
+dewey_loves_decimals = 0.4
+quarter = 0.25
