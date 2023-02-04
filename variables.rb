@@ -25,3 +25,16 @@ happy_dog = true
 turing_complete = false
 turing_cheap = false
 turing_invaluable = true
+
+name = "George not Jesse"
+last_name = "Jungle"
+pseudonym = "Tarzan"
+be_nice = "Warning, tree ahead"
+
+puts name
+puts last_name
+puts dewey_loves_decimals
+puts most_famous
+puts be_nice
+puts bone_creature_members + fiddy_cent
+puts meaning_of_life + bone_creature_members
