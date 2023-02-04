@@ -18,3 +18,10 @@ most_famous = 3.14159265359
 fiddy_cent = 0.50
 dewey_loves_decimals = 0.4
 quarter = 0.25
+
+## Booleans
+
+happy_dog = true
+turing_complete = false
+turing_cheap = false
+turing_invaluable = true
